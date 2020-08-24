@@ -1,4 +1,4 @@
-# nmos-IS04-app
+# NMOS-IS04-PyApp
 
 NMOS IS-04 python-based application.
 The app is based on the AMWA NMOS-IS04 specification (https://github.com/AMWA-TV/nmos-discovery-registration).
