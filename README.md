@@ -13,5 +13,7 @@ The Networked Media Open Specifications (NMOS) add an additional control and man
 ## General info
 
 ## Technologies
+Hereby there is a list of all the software technologies that have been used for the project
+* Python version: 3.8
 
 ## Setup
