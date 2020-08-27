@@ -21,4 +21,6 @@ Hereby there is a list of all the software technologies that have been used for 
 In order to run the app you would need to install the technologies listed in the section above.
 
 * Flask Install
+```
 $ pip install -U Flask
+```
