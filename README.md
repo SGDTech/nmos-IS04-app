@@ -15,12 +15,12 @@ The Networked Media Open Specifications (NMOS) add an additional control and man
 ## Technologies
 Hereby there is a list of all the software technologies that have been used for the project
 * Python version: 3.8
-* Flask
+* Django 3.1.0
 
 ## Setup
 In order to run the app you would need to install the technologies listed in the section above.
 
-* Flask Install
+* Django Install
 ```
-$ pip install -U Flask
+$ pip install django
 ```
